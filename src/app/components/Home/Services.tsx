@@ -7,7 +7,7 @@ export default function Services() {
     const data = [
         {
             title:"Free AD",
-            route:"/plan",
+            route:"/freeadd",
             image:"https://cdn-icons-png.flaticon.com/128/3774/3774905.png"
         },
         {
@@ -17,7 +17,7 @@ export default function Services() {
         },
         {
             title:"work",
-            route:"/plan",
+            route:"/work",
             image:"https://cdn-icons-png.flaticon.com/128/3774/3774905.png"
         },
         {
@@ -27,17 +27,17 @@ export default function Services() {
         },
         {
             title:"Deposit",
-            route:"/plan",
+            route:"/deposit",
             image:"https://cdn-icons-png.flaticon.com/512/5304/5304640.png"
         },
         {
             title:"CashOut",
-            route:"/plan",
+            route:"/cashout",
             image:"https://cdn-icons-png.flaticon.com/512/5501/5501360.png"
         },
         {
             title:"Support",
-            route:"/plan",
+            route:"/support",
             image:"https://www.iconpacks.net/icons/2/free-chat-support-icon-1721-thumb.png"
         },
     ]
